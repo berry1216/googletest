@@ -2,3 +2,68 @@
 # clang-format -i --style=file <file>
 Language:        Cpp
 BasedOnStyle:  Google
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Belajar HTML Dasar</title>
+</head>
+<body>
+  <h1>sejarah kerajaan sriwijaya Artikel</h1>
+  <p>......Kompas.comMenu
+JELAJAHI
+   Komentar
+Home Skola Skola
+Sejarah Terbentuknya Kerajaan Sriwijaya
+Selasa, 15 September 2020 | 06:30 WIB
+   Komentar
+
+ Lihat Foto
+kok bisa?
+Tangkapan layar Program Belajar dari Rumah yang tayang di TVRI pada Selasa, 15 September 2020 dengan materi Suku dan Budaya Indonesia untuk SD Kelas 4-6.
+Penulis: Ari Welianto | Editor: Ari Welianto
+KOMPAS.com - Program Belajar dari Rumah yang tayang di TVRI pada Selasa, 15 September 2020 membahas materi tentang Suku dan Budaya Indonesia untuk SD kelas 4-6.
+
+Ada beberapa pembahasan dan pertanyaan pada materi tersebut. Berikut adalah pembahasan dan pertanyaan pertama.
+
+Soal: Ceritakan dengan bahasamu sendiri, bagaimana sejarah terbentuknya Kerajaan Sriwijaya?
+
+Jawaban: Kerajaan Sriwijaya merupakan salah satu kerajaan bercorak Buddha di Nusantara.
+
+Baca juga: Kerajaan Jawa dan Kekuatan Bangsa Eropa
+
+Pada masanya Kerajaan Sriwijaya merupakan pusat agama Buddha di Asia Tenggara dan Asia Timur.
+
+
+Kerajaan Sriwijaya terletak ditepi Sungai Musi, Palembang. Kerajaan Sriwijaya berada di daerah lintasan pelayaran dan perdagangan antara Asia Timur, Asia Selatan.
+
+
+Ini mendorong para pedagang untuk melakukan kegiatan perdagangan.
+
+Kerajaan Sriwijaya yang diperkirakan berdiri pada abad ke-7 dikenal sebagai kerajaan maritim terbesar di Nusantara.
+
+Selain itu Sriwijaya juga menguasai dua perairan laut penting dalam perdagangan nusantara yaitu Selat Malaka dan selat Sunda.
+
+Kerajaan Sriwijaya didirikan oleh Raja Dapunta Hyang Sri Jayanasa. Ia membangun kerajaan dari Selatan Sumatera , Jambi, dan mengembangkan sayap hingga ke Semenanjung Malaysia.....</p>
+    <h2>Sub Judul Artikel 1</h2>
+    <p>.....pembahasan sub artikel 1.....</p>
+    <h2>Sub Judul Artikel 2</h2>
+    <p>.....pembahasan sub artikel 2.1.....</p>
+      <h2>Sub Sub Judul Artikel 2.1</h2>
+      <p>.....pembahasan sub sub artikel 2.1.....</p>
+</body>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Penggunaan Tag Image</title>
+</head>
+<body>
+   <h1>Belajar Tag Gambar</h1>
+   <img alt="gambar Image Foto.jpg" height="200" width="100" />
+</body>
+</html>
+
+
+
